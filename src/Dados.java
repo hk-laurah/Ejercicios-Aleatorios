@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ejercicio1 {
+public class Dados {
     public static void main(String[] args) {
 
         int max = 10;
